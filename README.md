@@ -29,12 +29,14 @@ Table Booking: The availability of online table booking services can affect cust
 Restaurants often run promotions, discounts, and special offers to attract customers. Analyzing the impact of discounts on customer ratings, reviews, and restaurant popularity can help understand the effectiveness of these strategies.
 # Data set edit link
 
+https://github.com/kalyani12345121/ZOMATO-DATA-ANALYSIS/blob/main/zomoto.xlsx.xls
 
-# Interaction of a dash board
+# Interaction of a dash board:
 
-1.
+1.https://github.com/kalyani12345121/ZOMATO-DATA-ANALYSIS/blob/main/zomato%20title.jpg
 
-2.
+2.https://github.com/kalyani12345121/ZOMATO-DATA-ANALYSIS/blob/main/zomato%201.jpg
+
 
 # Methods and Techniques for Zomato Data Analysis
 1. Descriptive Analysis
